@@ -2,6 +2,7 @@
 A fully-featured, custom-designed e-commerce website built on WordPress and WooCommerce.
 - Website link <a href="https://packagingmines.com/">Packagingmines.com</a>
 - website link <a href="https://packboxes.co.uk/">Packboxes</a>
+-website link <a href="https://themastermanuals.com/">Master Manuals</a>
 ## 🛍️ Project Overview
 This project is a custom implementation of a WooCommerce store for Packagingmines. It goes beyond a basic online shop by incorporating custom functionality, a unique design tailored to the target audience, and optimizations for a superior user experience and conversion rate optimization (CRO).
 The goal was to create a fast, intuitive, and trustworthy online shopping environment that seamlessly handles everything from product discovery to checkout.
