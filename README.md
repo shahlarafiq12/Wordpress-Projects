@@ -5,8 +5,6 @@ A fully-featured, custom-designed e-commerce website built on WordPress and WooC
 This project is a custom implementation of a WooCommerce store for Packagingmines. It goes beyond a basic online shop by incorporating custom functionality, a unique design tailored to the target audience, and optimizations for a superior user experience and conversion rate optimization (CRO).
 The goal was to create a fast, intuitive, and trustworthy online shopping environment that seamlessly handles everything from product discovery to checkout.
 
-<img width="1366" height="8077" alt="home" src="https://github.com/user-attachments/assets/725c813f-0186-4f53-a220-01a21b4e81c0" />
-
 # ✨ Key Features & Customizations
 ## 🎨 Design & User Experience (UX)
 •	Custom WordPress Theme: Built from the ground up using _s (Underscores) or a blank starter theme for maximum performance and control.
