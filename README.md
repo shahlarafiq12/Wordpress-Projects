@@ -11,6 +11,7 @@ A fully-featured, custom-designed e-commerce website built on WordPress and WooC
 - website link <a href="https://charity.wpbabu.com">Charity</a>
 - website link <a href="https://landmark.wpbabu.com/">Landmark</a>
 - website link <a href="https://thecompetitorcoachprojects.co.uk">Pipe view</a>
+- website link <a href="https://marvel.wpbabu.com">Marvel</a>
 ## 🛍️ Project Overview
 This project is a custom implementation of a WooCommerce store for Packagingmines. It goes beyond a basic online shop by incorporating custom functionality, a unique design tailored to the target audience, and optimizations for a superior user experience and conversion rate optimization (CRO).
 The goal was to create a fast, intuitive, and trustworthy online shopping environment that seamlessly handles everything from product discovery to checkout.
