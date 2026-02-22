@@ -5,6 +5,12 @@ A fully-featured, custom-designed e-commerce website built on WordPress and WooC
 - website link <a href="https://themastermanuals.com/">Master Manuals</a>
 - website link <a href="https://voladolabs.ai/">Volado</a>
 - website link <a href="https://darkslateblue-hippopotamus-888171.hostingersite.com/">Hill Crest</a>
+- webiste link <a href="https://lightgray-crab-126852.hostingersite.com/"> Ezy Appliances</a>
+- website link <a href="https://stonerestoration.com.au/">Stone Care</a>
+- website link <a href="https://pebble.wpbabu.com/">Pebble Property</a>
+- website link <a href="https://charity.wpbabu.com">Charity</a>
+- website link <a href="https://landmark.wpbabu.com/">Landmark</a>
+- website link <a href="https://thecompetitorcoachprojects.co.uk">Pipe view</a>
 ## 🛍️ Project Overview
 This project is a custom implementation of a WooCommerce store for Packagingmines. It goes beyond a basic online shop by incorporating custom functionality, a unique design tailored to the target audience, and optimizations for a superior user experience and conversion rate optimization (CRO).
 The goal was to create a fast, intuitive, and trustworthy online shopping environment that seamlessly handles everything from product discovery to checkout.
